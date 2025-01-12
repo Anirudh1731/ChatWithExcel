@@ -1,0 +1,14 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+PyPDF2
+faiss-cpu
+langchain_google_genai
+psycopg2
+google-generativeai
+langchain-community
+langchain_chroma
+langchain_core
+langchain_openai
